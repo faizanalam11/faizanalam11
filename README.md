@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizanalam11&label=Profile%20views&color=0e75b6&style=flat" alt="faizanalam11" /> </p>
 
-- 🔭 I’m currently working on **News Maniac**
+- 🔭 I’m currently working on **TubeNoter**
 
 - 🌱 I’m currently learning **Node.JS**
 
