@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.JS**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-git-master-faizanalam11s-projects.vercel.app?_vercel_share=hojZjDAQ722e6phacZ5c49ZYMY8CZpE0](https://my-portfolio-git-master-faizanalam11s-projects.vercel.app?_vercel_share=hojZjDAQ722e6phacZ5c49ZYMY8CZpE0)
+- 👨‍💻 All of my projects are available at [https://faizanportfolio-tau.vercel.app/](https://faizanportfolio-tau.vercel.app/)
 
 - 💬 Ask me about **React, Javascript**
 
