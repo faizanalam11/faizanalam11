@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **faizanalam416@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1g3F7FI5blo-y6DuBjruX3kvAWRAl3z5z/view?usp=sharing)
+- 📄 Mostly active on [Twitter](https://x.com/FaizanAlam416)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
